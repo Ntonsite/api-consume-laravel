@@ -1,0 +1,2 @@
+https://github.com/kbs1/laravel-encrypted-api
+https://laravel.com/docs/8.x/encryption
